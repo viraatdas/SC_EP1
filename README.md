@@ -1,4 +1,4 @@
-# SC_EP1
+# Soul Feeler
 Welcome to an open-source song, one of the first of its kind!
 
 As I started to compose this song, I realized there were multiple avenues I could take it. I created a very small
